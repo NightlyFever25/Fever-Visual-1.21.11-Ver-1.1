@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "fevervisual",
+	"version": "1.1",
+	"name": "Fever Visual",
+	"description": "Визуальный мод для игры",
+	"authors": [
+		"NightlyFever"
+	],
+	"contact": {
+		"homepage": "https://t.me/FeverVisuals"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/fevervisual/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.holdmyitems.HoldMyItems"
+		],
+		"client": [
+			"fever.visual.FeverVisualClient"
+		]
+	},
+	"mixins": [
+		"fevervisual.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"jars": [
+		{
+			"file": "libs/discord-rpc.jar"
+		}
+	],
+	"suggests": {
+		"another-mod": "*"
+	},
+	"accessWidener": "fevervisual.accesswidener"
+}

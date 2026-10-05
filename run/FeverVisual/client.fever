@@ -1,0 +1,211 @@
+{
+  "username": "Player115",
+  "theme": "DARK",
+  "hudElements": [
+    {
+      "name": "hud.effects",
+      "x": 2.5,
+      "y": 411.24033,
+      "showing": false,
+      "settings": {
+        "hud.always_display": false,
+        "hud.effects.alert": false,
+        "hud.effects.beneficial_color": {
+          "r": 100.0,
+          "g": 255.0,
+          "b": 100.0,
+          "a": 255.0
+        },
+        "hud.effects.harmful_color": {
+          "r": 255.0,
+          "g": 100.0,
+          "b": 100.0,
+          "a": 255.0
+        }
+      }
+    },
+    {
+      "name": "hud.keybinds",
+      "x": 140.31613,
+      "y": 411.24033,
+      "showing": true,
+      "settings": {
+        "hud.always_display": false
+      }
+    },
+    {
+      "name": "hud.hotbar",
+      "x": 109.5,
+      "y": 156.0,
+      "showing": true,
+      "settings": {}
+    },
+    {
+      "name": "hud.targethud",
+      "x": 579.0,
+      "y": 558.1498,
+      "showing": true,
+      "settings": {
+        "hud.targethud.transparent_background": false
+      }
+    },
+    {
+      "name": "hud.world",
+      "x": 64.052444,
+      "y": 234.15266,
+      "showing": true,
+      "settings": {
+        "elements": {
+          "selected": [
+            "coords",
+            "server",
+            "TPS"
+          ],
+          "order": [
+            "coords",
+            "server",
+            "TPS"
+          ]
+        },
+        "hud.world.compact_server": true
+      }
+    },
+    {
+      "name": "hud.watermark",
+      "x": 15.17308,
+      "y": 28.986122,
+      "showing": true,
+      "settings": {
+        "hud.watermark.show_ping": true,
+        "hud.watermark.show_fps": true,
+        "hud.watermark.show_bps": true,
+        "hud.watermark.speedY": true,
+        "hud.watermark.color_mode": "hud.watermark.color_mode.theme",
+        "hud.watermark.color": {
+          "r": 92.0,
+          "g": 2.0,
+          "b": 207.0,
+          "a": 255.0
+        },
+        "hud.watermark.color_second": {
+          "r": 200.0,
+          "g": 109.0,
+          "b": 0.0,
+          "a": 255.0
+        }
+      }
+    },
+    {
+      "name": "hud.armor",
+      "x": 94.5,
+      "y": 518.4208,
+      "showing": true,
+      "settings": {
+        "hud.always_display": false
+      }
+    },
+    {
+      "name": "hud.arraylist",
+      "x": 713.75867,
+      "y": 5.0,
+      "showing": true,
+      "settings": {}
+    },
+    {
+      "name": "hud.inventory",
+      "x": 1.4208794,
+      "y": 279.17166,
+      "showing": true,
+      "settings": {}
+    },
+    {
+      "name": "hud.custom_scoreboard",
+      "x": 140.94052,
+      "y": 203.0,
+      "showing": false,
+      "settings": {
+        "hud.custom_scoreboard.scores": true
+      }
+    },
+    {
+      "name": "hud.custom_tab",
+      "x": 0.0,
+      "y": 0.0,
+      "showing": false,
+      "settings": {}
+    },
+    {
+      "name": "hud.keystrokes",
+      "x": 247.05057,
+      "y": 263.77795,
+      "showing": true,
+      "settings": {}
+    },
+    {
+      "name": "hud.motion_graph",
+      "x": 94.5,
+      "y": 115.89847,
+      "showing": true,
+      "settings": {}
+    },
+    {
+      "name": "hud.dynamic_island",
+      "x": 180.8833,
+      "y": 7.0,
+      "showing": true,
+      "settings": {
+        "hud.dynamic_island.statuses": {
+          "selected": [
+            "hud.dynamic_island.statuses.mine",
+            "hud.dynamic_island.statuses.events",
+            "hud.dynamic_island.statuses.alerts",
+            "hud.dynamic_island.statuses.default",
+            "hud.dynamic_island.statuses.music",
+            "hud.dynamic_island.statuses.pvp"
+          ],
+          "order": [
+            "hud.dynamic_island.statuses.music",
+            "hud.dynamic_island.statuses.pvp",
+            "hud.dynamic_island.statuses.mine",
+            "hud.dynamic_island.statuses.events",
+            "hud.dynamic_island.statuses.alerts",
+            "hud.dynamic_island.statuses.default"
+          ]
+        }
+      }
+    }
+  ],
+  "friends": [],
+  "colorPickerPresets": [
+    {
+      "red": 0.0,
+      "green": 122.0,
+      "blue": 255.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 52.0,
+      "green": 199.0,
+      "blue": 89.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 255.0,
+      "green": 204.0,
+      "blue": 0.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 255.0,
+      "green": 59.0,
+      "blue": 48.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 151.0,
+      "green": 71.0,
+      "blue": 255.0,
+      "alpha": 255.0
+    }
+  ]
+}

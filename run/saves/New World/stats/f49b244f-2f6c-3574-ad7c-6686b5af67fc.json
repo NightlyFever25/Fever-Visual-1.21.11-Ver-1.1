@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:splash_potion": 9,
+      "minecraft:netherite_sword": 18,
+      "minecraft:map": 2,
+      "minecraft:netherite_spear": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 3,
+      "minecraft:string": 2,
+      "minecraft:gunpowder": 1,
+      "minecraft:spider_eye": 1,
+      "minecraft:rotten_flesh": 2
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 4,
+      "minecraft:skeleton": 2,
+      "minecraft:creeper": 4,
+      "minecraft:pig": 2,
+      "minecraft:spider": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 14854,
+      "minecraft:time_since_rest": 48000,
+      "minecraft:walk_one_cm": 10496,
+      "minecraft:total_world_time": 48000,
+      "minecraft:fly_one_cm": 82076,
+      "minecraft:mob_kills": 13,
+      "minecraft:damage_dealt": 2210,
+      "minecraft:play_time": 48000,
+      "minecraft:climb_one_cm": 100,
+      "minecraft:jump": 276,
+      "minecraft:time_since_death": 48000
+    }
+  },
+  "DataVersion": 4671
+}

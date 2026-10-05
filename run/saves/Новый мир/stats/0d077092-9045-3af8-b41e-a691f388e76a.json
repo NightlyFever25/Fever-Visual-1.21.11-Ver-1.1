@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6000,
+      "minecraft:fall_one_cm": 9933,
+      "minecraft:walk_one_cm": 1746,
+      "minecraft:total_world_time": 6000,
+      "minecraft:fly_one_cm": 1647,
+      "minecraft:damage_taken": 930,
+      "minecraft:play_time": 6000,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 6000
+    },
+    "minecraft:used": {
+      "minecraft:totem_of_undying": 2
+    }
+  },
+  "DataVersion": 4671
+}

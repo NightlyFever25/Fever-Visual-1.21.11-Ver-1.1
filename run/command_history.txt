@@ -1,0 +1,50 @@
+/weather clear
+/summon minecraft:villager
+/reg 123456 123456
+/rtp
+/из
+/summon minecraft:villager
+/summon minecraft:zombie
+/reg 123456 123456
+/tpa ProHunter609
+/kit start
+/weather clear
+/summon minecraft:zombie
+/time set day
+/time add 21d
+/login 123456
+/kit free
+/l qz1234567
+/kit rabbit
+/ec
+/shop
+/donate
+/ec
+/rtp near
+/spawn
+/fly
+/summon minecraft:zombie
+/effect clear
+/login qz123456
+/login qz1234567
+/rtp safe
+/effect give MkrfOZbAeYGdHtg minecraft:darkness infinite 123 123
+/effect give MkrfOZbAeYGdHtg minecraft:darkness infinite 123 true
+/effect clear
+/summon minecraft:cow
+/summon minecraft:sheep
+/weather clear
+/spawn
+/rtp
+/spawn
+/summon minecraft:sheep
+/summon minecraft:villager
+/summon minecraft:creeper
+/reg 123456 123456
+//wand
+/kit free
+/enchant @a minecraft:power 5
+/summon minecraft:creeper
+/summon minecraft:villager
+/summon minecraft:creeper
+/summon minecraft:villager

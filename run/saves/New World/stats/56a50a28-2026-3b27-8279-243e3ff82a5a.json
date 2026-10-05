@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:dirt": 41,
+      "minecraft:arrow": 2,
+      "minecraft:spider_eye": 1,
+      "minecraft:oak_sapling": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 180263,
+      "minecraft:walk_one_cm": 15084,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 10,
+      "minecraft:damage_dealt": 2428,
+      "minecraft:play_time": 180263,
+      "minecraft:jump": 228,
+      "minecraft:time_since_death": 180263,
+      "minecraft:sprint_one_cm": 9369,
+      "minecraft:total_world_time": 238708,
+      "minecraft:fly_one_cm": 90600,
+      "minecraft:walk_on_water_one_cm": 616,
+      "minecraft:climb_one_cm": 473
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 3,
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 2,
+      "minecraft:spider": 4
+    },
+    "minecraft:used": {
+      "minecraft:wooden_hoe": 1,
+      "minecraft:redstone_torch": 14,
+      "minecraft:enchanted_golden_apple": 2,
+      "minecraft:netherite_spear": 16,
+      "minecraft:tnt": 4,
+      "minecraft:mace": 15
+    }
+  },
+  "DataVersion": 4671
+}

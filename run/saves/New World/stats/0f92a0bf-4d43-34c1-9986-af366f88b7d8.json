@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:rotten_flesh": 2,
+      "minecraft:spider_eye": 2,
+      "minecraft:oak_sapling": 1
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 5,
+      "minecraft:totem_of_undying": 4,
+      "minecraft:enchanted_golden_apple": 4,
+      "minecraft:beef": 3,
+      "minecraft:netherite_spear": 6
+    },
+    "minecraft:picked_up": {
+      "minecraft:grass_block": 1,
+      "minecraft:beef": 3
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:enderman": 1,
+      "minecraft:cow": 3
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 112,
+      "minecraft:time_since_rest": 22310,
+      "minecraft:walk_one_cm": 16663,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 1716,
+      "minecraft:damage_dealt": 1320,
+      "minecraft:play_time": 22310,
+      "minecraft:damage_absorbed": 352,
+      "minecraft:jump": 227,
+      "minecraft:time_since_death": 22310,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 8678,
+      "minecraft:fall_one_cm": 26650,
+      "minecraft:total_world_time": 25082,
+      "minecraft:fly_one_cm": 52204
+    }
+  },
+  "DataVersion": 4671
+}

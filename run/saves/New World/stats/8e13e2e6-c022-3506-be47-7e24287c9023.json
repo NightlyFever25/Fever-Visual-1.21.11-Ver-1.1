@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherite_spear": 6
+    },
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 855,
+      "minecraft:time_since_rest": 6000,
+      "minecraft:walk_one_cm": 1404,
+      "minecraft:total_world_time": 6000,
+      "minecraft:fly_one_cm": 10086,
+      "minecraft:mob_kills": 1,
+      "minecraft:play_time": 6000,
+      "minecraft:damage_dealt": 500,
+      "minecraft:climb_one_cm": 88,
+      "minecraft:jump": 41,
+      "minecraft:time_since_death": 6000
+    },
+    "minecraft:picked_up": {
+      "minecraft:string": 2,
+      "minecraft:spider_eye": 1
+    }
+  },
+  "DataVersion": 4671
+}

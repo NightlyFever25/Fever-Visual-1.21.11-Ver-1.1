@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherite_spear": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 8777,
+      "minecraft:time_since_rest": 24000,
+      "minecraft:walk_one_cm": 5223,
+      "minecraft:swim_one_cm": 1064,
+      "minecraft:total_world_time": 24913,
+      "minecraft:fly_one_cm": 47111,
+      "minecraft:walk_under_water_one_cm": 226,
+      "minecraft:walk_on_water_one_cm": 1955,
+      "minecraft:play_time": 24000,
+      "minecraft:damage_dealt": 298,
+      "minecraft:jump": 175,
+      "minecraft:time_since_death": 24000
+    }
+  },
+  "DataVersion": 4671
+}

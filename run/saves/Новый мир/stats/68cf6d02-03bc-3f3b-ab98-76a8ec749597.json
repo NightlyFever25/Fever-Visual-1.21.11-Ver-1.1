@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:lead": 1,
+      "minecraft:leather": 2,
+      "minecraft:rotten_flesh": 1,
+      "minecraft:beef": 6
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 5,
+      "minecraft:cow": 3,
+      "minecraft:villager": 1
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 16
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5191,
+      "minecraft:time_since_rest": 18000,
+      "minecraft:walk_one_cm": 17898,
+      "minecraft:total_world_time": 18000,
+      "minecraft:fly_one_cm": 35731,
+      "minecraft:mob_kills": 9,
+      "minecraft:sneak_time": 2,
+      "minecraft:play_time": 18000,
+      "minecraft:damage_dealt": 1633,
+      "minecraft:jump": 86,
+      "minecraft:time_since_death": 18000
+    }
+  },
+  "DataVersion": 4671
+}

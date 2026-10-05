@@ -1,0 +1,16 @@
+package fever.visual.utility.inventory.slots;
+
+import fever.visual.utility.inventory.ItemSlot;
+import net.minecraft.item.ItemStack;
+
+public class OffhandSlot extends ItemSlot {
+   @Override
+   public ItemStack itemStack() {
+      return mc.player != null && mc.player.getInventory() != null ? mc.player.getInventory().getStack(40) : ItemStack.EMPTY;
+   }
+
+   @Override
+   public int getIdForServer() {
+      return 45;
+   }
+}

@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 2,
+      "minecraft:pillager": 7,
+      "minecraft:skeleton": 3,
+      "minecraft:enderman": 1,
+      "minecraft:cow": 1,
+      "minecraft:villager": 3,
+      "minecraft:armadillo": 1,
+      "minecraft:spider": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 14677,
+      "minecraft:time_since_rest": 78000,
+      "minecraft:walk_one_cm": 71922,
+      "minecraft:total_world_time": 78544,
+      "minecraft:fly_one_cm": 60104,
+      "minecraft:mob_kills": 19,
+      "minecraft:sneak_time": 24,
+      "minecraft:play_time": 78000,
+      "minecraft:damage_dealt": 4113,
+      "minecraft:jump": 197,
+      "minecraft:time_since_death": 78000
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 59
+    },
+    "minecraft:picked_up": {
+      "minecraft:lead": 1,
+      "minecraft:armadillo_scute": 1,
+      "minecraft:brown_egg": 1,
+      "minecraft:beef": 3
+    }
+  },
+  "DataVersion": 4671
+}
